@@ -6,4 +6,4 @@ Machine learning course homework #1.
 - [Bag of words](https://www.kaggle.com/c/word2vec-nlp-tutorial/) - Za Bag of words, kaggle tutorial.
 - [Regularization](https://codeburst.io/what-is-regularization-in-machine-learning-aed5a1c36590) - Vezano za regularizaciju, treba odraditi L2 za 25p.
 
-### Nemanja Sekularac, Radoica Draskic
+### Nemanja Sekularac, Radoica Draskic, 2018
